@@ -17,6 +17,10 @@ https://certifiedpoor.com/open-data/
 
 Row counts as of 13 November 2026.
 
+## Snapshot in this repository
+
+The folder `snapshot-2026-11-13` holds a copy of all seven files as they were on 13 November 2026, for citation. For current figures use the links above.
+
 ## What the data is
 
 - **Project register:** what developers have filed with the DLD for each project: escrow account status, construction progress, units and completion date.
