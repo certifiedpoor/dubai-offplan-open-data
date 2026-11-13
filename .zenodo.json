@@ -1,13 +1,13 @@
 {
   "title": "Dubai off-plan project register and DLD recorded sales, 2026 (snapshot of 13 November 2026)",
   "upload_type": "dataset",
-  "description": "<p>Snapshot, taken on 13 November 2026, of seven datasets about Dubai off-plan property compiled by Certified Poor from Dubai Land Department (DLD) open data.</p><p>- Project register 2026 (373 projects): developer, district, status, escrow status, % built, registered units, declared value, start date, filed completion date.<br>- Recorded off-plan purchases 2026 by project (1,461 projects): count, median price, median price per sq ft, unit mix.<br>- Home prices 2026 by area and home type (470 rows): count, median, quartiles, median price per sq ft.<br>- Projects without an open escrow account (101).<br>- Buying costs by project (259).<br>- Land plot sales 2026 by project (200).<br>- Daily history of the register counts.</p><p>Prices are what buyers paid as recorded by the DLD, not asking prices. Medians are calculated from individual sales. Source: Dubai Land Department open data. Method: https://certifiedpoor.com/insights/how-we-read-the-dld-register The current, regularly updated files are at https://certifiedpoor.com/open-data/</p>",
+  "description": "<p>Snapshot, taken on 13 November 2026, of seven datasets about Dubai off-plan property compiled by Certified Poor from Dubai Land Department (DLD) open data.</p><p>- Project register 2026 (373 projects): developer, district, status, escrow status, % built, registered units, declared value, start date, filed completion date.<br>- Recorded off-plan purchases 2026 by project (1,461 projects): count, median price, median price per sq ft, unit mix.<br>- Home prices 2026 by area and home type (470 rows): count, median, quartiles, median price per sq ft.<br>- Projects without an open escrow account (101).<br>- Buying costs by project (259).<br>- Land plot sales 2026 by project (200).<br>- Daily history of the register counts.</p><p>Prices are what buyers paid as recorded by the DLD, not asking prices. Medians are calculated from individual sales. Source: Dubai Land Department open data. Method: https://certifiedpoor.com/insights/how-we-read-the-dld-register The current, regularly updated files are at https://certifiedpoor.com/open-data/</p><p>Licence: offered under the same terms as the source data, the Dubai Open Data Licence (https://data.dubai/documents/d/guest/open-data-license-english-1-1-pdf). Credit: Certified Poor (certifiedpoor.com), derived from Dubai Land Department open data.</p>",
   "creators": [
     {
       "name": "Certified Poor"
     }
   ],
-  "license": "cc-by-4.0",
+  "license": "other-open",
   "access_right": "open",
   "keywords": [
     "Dubai",
