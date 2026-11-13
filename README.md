@@ -48,10 +48,10 @@ Method: https://certifiedpoor.com/insights/how-we-read-the-dld-register
 
 ## Licence and credit
 
-CC BY 4.0. Free to use with credit:
+The data is compiled from Dubai Land Department open data and is offered under the same terms as the source: the [Dubai Open Data Licence](https://data.dubai/documents/d/guest/open-data-license-english-1-1-pdf). Free to use, including commercially, with credit:
 
 > Source: Certified Poor (certifiedpoor.com), derived from Dubai Land Department open data.
 
-Certified Poor is independent. It sells no property and is not affiliated with any developer.
+Certified Poor is independent. It sells no property and is not affiliated with any developer, the Dubai Land Department or the Government of Dubai. The data is provided as-is, with no warranty.
 
 Contact: ideastech1@gmail.com
