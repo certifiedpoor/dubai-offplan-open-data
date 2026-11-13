@@ -1,5 +1,7 @@
 # Dubai off-plan open data (Dubai Land Department)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24200172.svg)](https://doi.org/10.5281/zenodo.24200172)
+
 Free CSV files about Dubai off-plan property, compiled by Certified Poor from Dubai Land Department (DLD) open data: the project register and recorded sales.
 
 The files are refreshed on the site daily or weekly. The links below always return the current version:
@@ -20,6 +22,15 @@ Row counts as of 13 November 2026.
 ## Snapshot in this repository
 
 The folder `snapshot-2026-11-13` holds a copy of all seven files as they were on 13 November 2026, for citation. For current figures use the links above.
+
+## How to cite
+
+The snapshot is archived on Zenodo with a DOI:
+
+> Certified Poor. (2026). Dubai off-plan project register and DLD recorded sales, 2026 (snapshot of 13 November 2026) (Version v2026.11.13) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.24200173
+
+- This snapshot: https://doi.org/10.5281/zenodo.24200173
+- Latest archived version: https://doi.org/10.5281/zenodo.24200172
 
 ## What the data is
 
