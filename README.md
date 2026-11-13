@@ -27,9 +27,9 @@ The folder `snapshot-2026-11-13` holds a copy of all seven files as they were on
 
 The snapshot is archived on Zenodo with a DOI:
 
-> Certified Poor. (2026). Dubai off-plan project register and DLD recorded sales, 2026 (snapshot of 13 November 2026) (Version v2026.11.13) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.24200173
+> Certified Poor. (2026). Dubai off-plan project register and DLD recorded sales, 2026 (snapshot of 13 November 2026) (Version v2026.11.13.1) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.24200402
 
-- This snapshot: https://doi.org/10.5281/zenodo.24200173
+- This snapshot: https://doi.org/10.5281/zenodo.24200402
 - Latest archived version: https://doi.org/10.5281/zenodo.24200172
 
 ## What the data is
