@@ -7,6 +7,8 @@ Free CSV files about Dubai off-plan property, compiled by Certified Poor from Du
 The files are refreshed on the site daily or weekly. The links below always return the current version:
 https://certifiedpoor.com/open-data/
 
+Dataset page with download links: https://certifiedpoor.github.io/dubai-offplan-open-data/
+
 | Dataset | Rows | File |
 |---|---|---|
 | Projects registered with the Dubai Land Department in 2026: developer, district, status, escrow status, % built, registered units, declared value, start date, filed completion date | 373 | https://certifiedpoor.com/open-data/dubai-project-register-2026.csv |
